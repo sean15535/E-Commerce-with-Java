@@ -20,7 +20,7 @@ public class Main {
             System.out.println(" - " + headset);
             System.out.println();
 
-            // Create a customer (using your name for the demo 😊)
+            // Create a customer
             Customer customer = new Customer("C-0001", "Oluwaseun Alli");
 
             // Add items to cart
@@ -53,4 +53,3 @@ public class Main {
         }
     }
 }
-``
